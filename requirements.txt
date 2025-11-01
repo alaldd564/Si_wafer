@@ -1,0 +1,9 @@
+opencv-python
+scikit-image
+numpy
+tqdm
+tifffile imageio
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# pip install -r requirements.txt 이것만 터미널에서 실행하기!
+# pip install tifffile imageio
+#Get-Item C:\Users\kimbr\Si_wafer\dataset\images\sem_01.tif 리스트업 확인
